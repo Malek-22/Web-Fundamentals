@@ -1,0 +1,52 @@
+/* Styling for the h1 tag */
+h1 {
+    background-color: black;
+    color: white;
+    text-align: left;
+    font-family: Arial, sans-serif;
+    padding: 10px;
+    }
+/* Styling for the h1 tag (MyCloud) */
+h1 {
+    background-color: black;
+    color: white;
+    text-align: left;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+    font-size: 2em;
+}
+
+/* Special styling for the "Cloud" part of MyCloud */
+h1 .highlight {
+    color: cyan;
+}
+
+/* Styling for the h2 tag (Completed Projects) */
+h2 {
+    background-color: purple;
+    color: white;
+    text-align: left;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+    font-size: 1.5em;
+    font-style: italic;
+    margin-top: 0;
+}
+
+/* Styling for the h3 tag (Contact Us) */
+h3 {
+    background-color: lightblue;
+    text-align: right;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+    margin-top: 0;
+}
+
+/* Styling the "Contact Us" link */
+h3 a {
+    color: darkblue;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
